@@ -1,6 +1,8 @@
 # Self.py_Course
 Self.py Course - Campus IL
 
+![image](https://user-images.githubusercontent.com/80900890/134881088-ba6ad747-f296-46b7-9537-c38c70ec218f.png)
+
 ## Hangman game
 1. Print the opening screen.
 2. Ask the player to enter: (a) a path to a word file and (b) a location (index) for a word in the file. Depending on the input from the player, the secret word for the game will be selected.
